@@ -1,0 +1,11 @@
+@import "./_tailwind.css";
+
+@font-face {
+  font-family: 'HindGuntur-Regular';
+  src: url('../font/HindGuntur-Regular.ttf') format('ttf');
+}
+
+@font-face {
+  font-family: 'Righteous-Regular';
+  src: url('../font/Righteous-Regular.ttf') format('ttf');
+}
